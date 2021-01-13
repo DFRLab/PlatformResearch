@@ -1,0 +1,9 @@
+# git ignore files
+
+# ignore cache and checkpoints
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# ignore files -> mostly produce by Selenium
+debug.log
