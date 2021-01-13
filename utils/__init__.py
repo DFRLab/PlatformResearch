@@ -10,7 +10,6 @@ Fuctions
 '''
 
 # import modules
-import pandas as pd
 import time
 import os
 

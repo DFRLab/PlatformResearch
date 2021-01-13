@@ -2,7 +2,6 @@
 
 # import modules
 import argparse
-import pandas as pd
 
 # import local modules
 from utils import *
