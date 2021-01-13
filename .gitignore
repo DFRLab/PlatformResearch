@@ -1,5 +1,8 @@
 # git ignore files
 
+# ignore data folder
+data/
+
 # ignore cache and checkpoints
 __pycache__/
 .ipynb_checkpoints/
