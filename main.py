@@ -30,4 +30,6 @@ app = args['app']
 
 # objects
 scraper = apps_object(app)
-scraper()
+
+if __name__ == "__main__":
+	scraper()

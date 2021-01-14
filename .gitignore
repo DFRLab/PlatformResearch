@@ -13,3 +13,6 @@ debug.log
 
 # ignore build folder -> created by pyinstaller
 build/
+
+# ignore temp files
+testings/

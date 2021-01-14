@@ -13,7 +13,7 @@
 ## Requirements
 
 - Python 3.6 or higher
-- Follow `requirenments.txt` if using python.
+- Follow `requirements.txt` if using python.
 
 ## Run
 
