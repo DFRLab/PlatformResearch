@@ -10,3 +10,6 @@ __pycache__/
 
 # ignore files -> mostly produce by Selenium
 debug.log
+
+# ignore build folder -> created by pyinstaller
+build/

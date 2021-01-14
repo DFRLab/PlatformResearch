@@ -2,19 +2,43 @@
 
 <p>Investigating new platforms as potential research tools</p>
 
+---
+
+# Support
+
+1. All OS systems if using the programming language python.
+2. The file platforms.exe is only available for Windows OS.
+
+
+## Requirements
+
+- Python 3.6 or higher
+- Follow `requirenments.txt` if using python.
+
+## Run
+
+1. `git clone https://github.com/DFRLab/PlatformResearch.git`, to download the source code.
+2. `cd PlatformResearch`, to enter the directory.
+3. `pip3 install -r requirements.txt` or just `pip install -r requirements.txt`, to install the requirements.
+4. `python main.py -h`, to know more about the available commands.
+
+## Commands
+Command | Description
+:--- | :---
+\--help / \-h | Show help screen.
+\--app / \-a | Specify platform on which the program will collect data.
+
+---
+
+## Note
+
+1. More platforms and analysis tools will be added soon.
+
+---
 
 ## Alternative Platforms to Explore:
 
 - Bitchute
-- Chans
-- CloutHub
-- DLive
-- Gab
-- MeWe
-- Minds
-- Rumble
-- Telegram
-- Wimkin
 
 ---
 
